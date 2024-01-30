@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "level2originalsize.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
